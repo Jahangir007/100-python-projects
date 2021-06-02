@@ -1,5 +1,5 @@
-# 100-python-projects
 100 Basic to Intermediate Projects from Repository of Prierian Data
+=========================================
 This repo links to solutions of [Projects](http://nbviewer.ipython.org/github/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Final%20Capstone%20Project%20Ideas.ipynb) written by other users in Python.
 =========================================
 
